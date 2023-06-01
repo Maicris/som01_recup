@@ -9,5 +9,6 @@ while num < 35:
         num += cont
     else:
         num += cont + 1
+
 print(f"Valores: num={num} e cont={cont}")
 
